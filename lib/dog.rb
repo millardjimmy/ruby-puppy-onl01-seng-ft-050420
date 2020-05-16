@@ -20,3 +20,11 @@ class Dog
   end
   
 end
+
+def save
+  @@all 
+end
+
+def name
+  @name
+end
